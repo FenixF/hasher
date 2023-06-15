@@ -5,6 +5,9 @@ https://chrome.google.com/webstore/detail/kignjplbjlocolcfldfhbonmbblpfbjb
 Standalone version for other browsers:  
 https://s12v.github.io/hasher/
 
+Fork version for Chrome version 88+
+https://github.com/FenixF/hasher
+
 The extension is used to compute cryptographic hashes and perform conversions. 
 It is useful for programmers and system administrators. 
 The extension is implemented in JavaScript. All calculations are performed on the client side.
